@@ -1,0 +1,79 @@
+/* @font-face {
+  font-family: Jaapokki; src: url('Jaapokki-Regular.otf'); 
+} */
+
+* {
+	font-family: "Arial Black", sans-serif;
+}
+
+h1 {
+	text-align: center;
+	font-weight: bold;
+	color: #1e3d7b;
+	margin-bottom: 40px;
+}
+
+.well > .well {
+	background-color: #c1d1f0;
+}
+
+form.well {
+	background-color: #eaf0fa;
+}
+
+.irs-slider {
+	background-color: #ffff4d;
+}
+label {
+	text-align: center;
+	width: 100%;
+}
+
+/*div.form-group {
+	margin-bottom: 10px;
+}*/
+
+.btn.btn-default {
+	background-color: #ffffb3;
+}
+
+#design_template, #sample_data {
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+#download_raw, #download_means {
+	margin-bottom: 15px;
+}
+
+div#table {
+	width: 100%;
+}
+
+ul.nav.nav-tabs {
+	margin-bottom: 20px;
+}
+
+th {
+	background-color: #c1d1f0;
+}
+
+tr:nth-child(even) {
+	background-color: #eaf0fa;
+}
+
+table {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+	color: #1e3d7b;
+}
+
+/*div.tables{
+	overflow-y: scroll;
+	height: 750px;
+	width: auto;
+}
+*/
